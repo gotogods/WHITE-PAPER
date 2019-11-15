@@ -3,7 +3,6 @@
 SUMMARY
  
  
-
  
 1- GOTOGODS : 
 An innovative platform that allows fans to book live meetings with STARS.
