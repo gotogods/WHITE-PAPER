@@ -193,30 +193,4 @@ The access to all paying groups on the GOTOGODS platform is only possible via pa
 
 
  
- Key team members:
- 
-G. Luca Desiati: CEO & Founder
-Inventor of RJ45 bridge "L" (Patent No. 91770).
- 
-Merlin Laroche: Project Manager 
-
-
-
-Join our community:
-
-Telegram News: https://t.me/gotogods
-
-Telegram Community:  https://t.me/gotogodsgroup/
-
-Twitter: https://twitter.com/gotogods/
-
-Facebook: https://www.facebook.com/pg/gotogodsofficial/
-
- 
-For all inquiries, contact us at info@gotogods.com
-
-Contacts us on Telegram
-
-CEO & Founder:  @glucadesiati
-
-Merlin Laroche: @merlinlaroche
+Thank you!
